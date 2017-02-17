@@ -1,5 +1,5 @@
 <resources>
-    <string name="api_key">YOUR API KEY</string>
+    <string name="api_key">Your Api Key</string>
     <string name="app_name">Popular Movies</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
